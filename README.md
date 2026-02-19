@@ -1,4 +1,5 @@
 Reactive-Bot: LiDAR-Based Obstacle Avoidance in MuJoCo
+
 Project Overview
 This project is for the ST: Autonomous Mobile Robot course. The goal is to implement a fundamental reactive navigation system for a mobile robot within a 3D simulated environment. Using C++ and the MuJoCo physics engine, the robot will autonomously navigate and avoid static obstacles in real-time without the need for a pre-generated map.
 
